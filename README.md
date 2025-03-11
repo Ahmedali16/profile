@@ -15,7 +15,7 @@
  
 ### 🌐 Visitor Count:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HuzaifaQaiser&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ahmedali16&color=blue)
  
 ### 💻 Languages & Tools:
 
@@ -77,23 +77,23 @@
 
 - **Contribution Graph:**  
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaQaiser&theme=react-dark)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmedali16&theme=react-dark)
  
 - **Trophies:**  
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HuzaifaQaiser&theme=radical)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmedali16&theme=radical)
 
 ---
 
 ### 📊 My GitHub Stats:
 
-![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuzaifaQaiser&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=tokyonight)
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedali16&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=tokyonight)
  
 ---
  
 ### 🔥 Streaks:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaQaiser&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedali16&theme=radical)
  
 ---
  
@@ -111,7 +111,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/huzaifa-qaiser)  
 
-- 📧 **Email**: huzaifaqaiser797@gmail.com
+- 📧 **Email**: miangali927@gmail.com
  
 ---
  
