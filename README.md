@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋 I'm Huzaifa Qaiser</h1>
+<h1 align="center">Hi there! 👋 I'm Ahmed Ali</h1>
  
 <h2 align="center">🚀 MERN Stack Developer | 💻 Next.js Enthusiast | 🌟 Tech Innovator</h2>
  
